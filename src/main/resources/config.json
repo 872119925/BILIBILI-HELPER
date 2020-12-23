@@ -1,5 +1,5 @@
 {
-  "numberOfCoins": 5,
+  "numberOfCoins": 0, //每日投币数
   "selectLike": 0,
   "monthEndAutoCharge": true,
   "devicePlatform": "ios",
